@@ -1,10 +1,8 @@
-# praktikum1
-#include<iostream.h>
-void main()
-{
-    int A,B,T;
-    A = 5;
-    B = 4;
-    T = A + B;
-    count<<T;
-}
+#latihan 1
+-membuat perhitungan luas persegi panjang
+-mendeklarasikan int p,l,L
+    p = 10
+    l = 7
+    L = p*l;
+-menghitung hasil luas persegi panjang, dan menampilkan hasil dari L.
+    << cout" hasilnya adalah : " << L << end;
